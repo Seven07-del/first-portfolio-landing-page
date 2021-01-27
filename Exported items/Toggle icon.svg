@@ -1,0 +1,16 @@
+<svg width="47" height="86" viewBox="0 0 47 86">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="47" height="86" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Toggle_icon" data-name="Toggle icon" clip-path="url(#clip-path)">
+    <g transform="translate(-257 -654)">
+      <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(257 654)" fill="rgba(255,255,255,0)" stroke="#ecfefe" stroke-width="5">
+        <rect width="47" height="86" rx="23.5" stroke="none"/>
+        <rect x="2.5" y="2.5" width="42" height="81" rx="21" fill="none"/>
+      </g>
+      <ellipse id="ellipse" cx="12.5" cy="13.5" rx="12.5" ry="13.5" transform="translate(268 667)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
